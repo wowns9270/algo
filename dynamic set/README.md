@@ -1,5 +1,7 @@
 ### :smirk:Dynamic Set
 
+---
+
 :orange_book: basic
 
 - Binary Search Tree
@@ -8,6 +10,8 @@
 - Red-Black Tree
 - Splay Tree
 
+---
+
 :blue_book: add
 
 - Interval Tree
@@ -15,7 +19,9 @@
 - Segment Tree
 - Fenwick Tree(BIT)
 
-:page_with_curl: query
+---
+
+:page_with_curl: query :information_source: O(log n)
 
 - Search
 - Mininum
@@ -23,7 +29,11 @@
 - Successor
 - Predecessor
 
-:basketball: calculation
+---
+
+:basketball: calculation :information_source: O(log n)
 
 - Insert
 - Delete
+
+---
