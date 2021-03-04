@@ -32,3 +32,8 @@ leftRotate(9)
 
 - case 3 x의 부모의 형제노드가 black이고 x가 부모노드의 왼쪽 자식인 경우
   (x의 할아버지에서 rightRotate() 후에 노드의 색을 바꾼다.)
+
+---
+
+:apple: 예시
+![Red-Black tree lotation](https://user-images.githubusercontent.com/46587806/109907527-ce929500-7ce5-11eb-9db5-84ffe0b760ea.jpg)
